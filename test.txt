@@ -3,3 +3,5 @@ This is a test.
 It's going pretty well for now.
 
 I have added a new file!
+
+I've added this line directly in GitHub.
